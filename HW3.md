@@ -1,4 +1,9 @@
-import SwiftUI
+<h1>HW3</h1>
+
+
+```swift
+
+   import SwiftUI
 struct ContentView: View {
     var body:some View{
         ZStack {
@@ -151,3 +156,5 @@ struct P9View: View{
         }
     }
 }
+
+```
